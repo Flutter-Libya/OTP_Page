@@ -1,12 +1,3 @@
-import 'package:beauty_queen/const/styles.dart';
-import 'package:beauty_queen/controller/auth_controller/otp_controller.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:get/get.dart';
-
-import '../../const/colors.dart';
-import '../../widgets/custom_button_2.dart';
 
 class OtpPage extends StatelessWidget {
   const OtpPage({super.key});
@@ -86,7 +77,7 @@ class OTPWidget extends StatelessWidget {
               text: "تأكيد",
               onPressed: () {},
               textStyle: TextStyle(
-                fontFamily: kTheArabicSansLight,
+              
                 fontSize: 20.85.sp,
                 fontWeight: FontWeight.w500,
                 color: kWhiteColor,
