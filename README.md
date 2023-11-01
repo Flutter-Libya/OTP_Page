@@ -8,4 +8,4 @@ The final result should look like this:
 
 <img src="https://github.com/Flutter-Libya/OTP_Page/assets/131480121/175e1508-61c8-4394-883d-a535c33950ea" width="200" />
 
-![simulator_screenshot_FFB6E7E4-25B6-4AF1-8E97-F9650E1B2D82](https://github.com/Flutter-Libya/OTP_Page/assets/131480121/175e1508-61c8-4394-883d-a535c33950ea)
+
